@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tesseract.js": "^2.0.0-alpha.16"
+    "tesseract.js": "^2.1.5"
   }
 }
